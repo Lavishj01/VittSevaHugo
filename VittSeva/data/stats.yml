@@ -1,0 +1,11 @@
+- label: "Clients Served"
+  value: "10,000+"
+  icon: "users"
+
+- label: "Growth Rate"
+  value: "95%"
+  icon: "trending-up"
+
+- label: "Success Stories"
+  value: "500+"
+  icon: "target"

@@ -1,0 +1,14 @@
+- title: "ACCOUNTING AND TAX FILING"
+  description: "Comprehensive accounting services and tax preparation."
+  icon: "calculator"
+  url: "/features/accounting-and-filing/"
+
+- title: "INSURANCE (GENERAL)"
+  description: "Complete insurance solutions tailored to your needs."
+  icon: "shield"
+  url: "/features/insurance-suraksha/"
+
+- title: "INVESTMENT & FINANCIAL PLANNING"
+  description: "Strategies for wealth building and financial growth."
+  icon: "trending-up"
+  url: "/features/investment-planning/"

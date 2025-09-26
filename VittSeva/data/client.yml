@@ -1,0 +1,19 @@
+- segment: "Individual Investors"
+  status: "All Ages"
+  color: "green"
+  
+- segment: "Women-Focused Services"
+  status: "Specialized"
+  color: "blue"
+  
+- segment: "Senior Citizens"
+  status: "Dedicated Support"
+  color: "green"
+  
+- segment: "NRI Clients"
+  status: "Global Reach"
+  color: "blue"
+  
+- segment: "Corporate Clients"
+  status: "Legal & Advisory"
+  color: "green"

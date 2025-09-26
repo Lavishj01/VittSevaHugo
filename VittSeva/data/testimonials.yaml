@@ -1,0 +1,14 @@
+- name: "Rahul Kumar"
+  role: "Software Engineer"
+  content: "VittSeva helped me optimize my portfolio and save taxes."
+  rating: 5
+
+- name: "Priya Sharma"
+  role: "Business Owner"
+  content: "The consultation was free, and the advice was priceless!"
+  rating: 5
+
+- name: "Amit Verma"
+  role: "NRI Professional"
+  content: "Finally, a service that understands NRI taxation complexities."
+  rating: 5

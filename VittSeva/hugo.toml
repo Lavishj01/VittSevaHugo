@@ -1,0 +1,19 @@
+baseURL = 'https://vittseva.com'
+languageCode = 'en-us'
+title = 'VittSeva - Transform Your Financial Future'
+
+[params]
+description = 'Financial services simple, personal & optimal for individuals and businesses. Complete financial solutions including investment advisory, insurance solutions, loan assistance, and tax planning.'
+author = 'VittSeva Financial Advisory Services'
+keywords = 'VittSeva, investment advisory, insurance solutions, loan services, tax planning, wealth management, NRI services, financial planning, Bangalore financial advisor'
+phone = '+91 83101 99396'
+email = 'info@vittseva.com'
+
+website = 'https://vittseva.com'
+contact_url = 'https://vittseva.com/contact/?source=navbar'
+favicon = '/favicon.ico'
+logo_desktop = '/portal-logo/logo-wb.png'
+logo_mobile = '/portal-logo/logo.png'
+
+[markup.goldmark.renderer]
+unsafe = true
