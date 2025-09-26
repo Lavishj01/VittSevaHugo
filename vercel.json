@@ -3,10 +3,5 @@
     "env": {
       "HUGO_VERSION": "0.131.0"
     }
-  },
-  "functions": {
-    "VittSeva/layouts/**": {
-      "excludeFiles": "**"
-    }
   }
 }
